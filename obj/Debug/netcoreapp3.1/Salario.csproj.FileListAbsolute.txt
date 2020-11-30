@@ -1,0 +1,15 @@
+C:\Users\Emanuel\source\repos\Salario\bin\Debug\netcoreapp3.1\Salario.exe
+C:\Users\Emanuel\source\repos\Salario\bin\Debug\netcoreapp3.1\Salario.deps.json
+C:\Users\Emanuel\source\repos\Salario\bin\Debug\netcoreapp3.1\Salario.runtimeconfig.json
+C:\Users\Emanuel\source\repos\Salario\bin\Debug\netcoreapp3.1\Salario.runtimeconfig.dev.json
+C:\Users\Emanuel\source\repos\Salario\bin\Debug\netcoreapp3.1\Salario.dll
+C:\Users\Emanuel\source\repos\Salario\bin\Debug\netcoreapp3.1\Salario.pdb
+C:\Users\Emanuel\source\repos\Salario\obj\Debug\netcoreapp3.1\Salario.csprojAssemblyReference.cache
+C:\Users\Emanuel\source\repos\Salario\obj\Debug\netcoreapp3.1\Salario.Form1.resources
+C:\Users\Emanuel\source\repos\Salario\obj\Debug\netcoreapp3.1\Salario.csproj.GenerateResource.cache
+C:\Users\Emanuel\source\repos\Salario\obj\Debug\netcoreapp3.1\Salario.AssemblyInfoInputs.cache
+C:\Users\Emanuel\source\repos\Salario\obj\Debug\netcoreapp3.1\Salario.AssemblyInfo.cs
+C:\Users\Emanuel\source\repos\Salario\obj\Debug\netcoreapp3.1\Salario.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\source\repos\Salario\obj\Debug\netcoreapp3.1\Salario.dll
+C:\Users\Emanuel\source\repos\Salario\obj\Debug\netcoreapp3.1\Salario.pdb
+C:\Users\Emanuel\source\repos\Salario\obj\Debug\netcoreapp3.1\Salario.genruntimeconfig.cache
